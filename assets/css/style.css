@@ -417,7 +417,7 @@ section .container {
   background: rgba(255, 255, 255, 0.08);
 }
 
-.counts .count-box i {
+.counts .count-box .i {
   position: absolute;
   top: -25px;
   left: 50%;
