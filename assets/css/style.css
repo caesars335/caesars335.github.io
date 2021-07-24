@@ -475,7 +475,35 @@ section .container {
   width: 1px;
   height: 10px;
   transition: .9s;
+  background-color: #D15202;
+}
+
+.skills .progress-bar-advanced {
+  width: 1px;
+  height: 10px;
+  transition: .9s;
   background-color: #18d26e;
+}
+
+.skills .progress-bar-intermediate {
+  width: 1px;
+  height: 10px;
+  transition: .9s;
+  background-color: #21CCD1;
+}
+
+.skills .progress-bar-beginner {
+  width: 1px;
+  height: 10px;
+  transition: .9s;
+  background-color: #D15202;
+}
+
+.skills .progress-bar-forgotten {
+  width: 1px;
+  height: 10px;
+  transition: .9s;
+  background-color: #D12C9C;
 }
 
 /*--------------------------------------------------------------
