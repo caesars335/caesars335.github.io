@@ -556,7 +556,7 @@ section .container {
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
-  margin: 10px 0 5px 45px;
+  /* margin: 10px 0 5px 45px; */
   color: #fff;
 }
 
