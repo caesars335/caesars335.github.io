@@ -1,0 +1,22 @@
+{
+  "name": "caesars335.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesars335/caesars335.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caesars335/caesars335.github.io/issues"
+  },
+  "homepage": "https://github.com/caesars335/caesars335.github.io#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
