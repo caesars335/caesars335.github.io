@@ -29,6 +29,10 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+app.get('/thai', (req, res) => {
+    res.render('thai');
+});
+
 process.on('uncaughtException', function (err) {
     console.log(err);
 });
